@@ -65,40 +65,103 @@ foundation\								(GitHub root)
 |	|	|	|	|
 |	|	|	|	|-PostgreSQL\
 |	|	|	|	|	|
-|	|	|	|	|	|-Base.Data\
+|	|	|	|	|	|-Abstractions\
+|	|	|	|	|	|	|
+|	|	|	|	|	|	|-User.Data.Implementation\
+|	|	|	|	|	|	|
+|	|	|	|	|	|	|-Session.Data.Implementation\
+|	|	|	|	|	|	|
+|	|	|	|	|	|	|-My.Session.Data.Implementation\
+|	|	|	|	|	|	|
+|	|	|	|	|	|	|-...\
 |	|	|	|	|	|
-|	|	|	|	|	|-bin\
+|	|	|	|	|	|-...
+|	|	|	|	|
+|	|	|	|	|-MSSql\
+|	|	|	|	|	|
+|	|	|	|	|	|-Abstractions\
+|	|	|	|	|	|	|
+|	|	|	|	|	|	|-User.Data.Implementation\
+|	|	|	|	|	|	|
+|	|	|	|	|	|	|-Session.Data.Implementation\
+|	|	|	|	|	|	|
+|	|	|	|	|	|	|-My.Session.Data.Implementation\
+|	|	|	|	|	|	|
+|	|	|	|	|	|	|-...\
 |	|	|	|	|	|
 |	|	|	|	|	|-...
 |	|	|	|	|
 |	|	|	|	|-...\
 |	|	|	|
-|	|	|	|-Entity Framework\
+|	|	|	|-Entity Framework (CF)\
 |	|	|	|	|
-|	|	|	|	|-Microsoft\
+|	|	|	|	|-MSSql\
+|	|	|	|	|	|-Abstractions\
+|	|	|	|	|	|	|
+|	|	|	|	|	|	|-User.Data.Implementation\
+|	|	|	|	|	|	|
+|	|	|	|	|	|	|-Session.Data.Implementation\
+|	|	|	|	|	|	|
+|	|	|	|	|	|	|-My.Session.Data.Implementation\
+|	|	|	|	|	|	|
+|	|	|	|	|	|	|-...\
+|	|	|	|	|	|
+|	|	|	|	|	|-...
 |	|	|	|	|
 |	|	|	|	|-Dapper\
+|	|	|	|	|	|
+|	|	|	|	|	|-PostgreSQL\
+|	|	|	|	|	|	|
+|	|	|	|	|	|	|-Abstractions\
+|	|	|	|	|	|	|	|
+|	|	|	|	|	|	|	|-User.Data.Implementation\
+|	|	|	|	|	|	|	|
+|	|	|	|	|	|	|	|-Session.Data.Implementation\
+|	|	|	|	|	|	|	|
+|	|	|	|	|	|	|	|-My.Session.Data.Implementation\
+|	|	|	|	|	|	|	|
+|	|	|	|	|	|	|	|-...\
+|	|	|	|	|	|	|
+|	|	|	|	|	|	|-...\
+|	|	|	|	|	|
+|	|	|	|	|	|-...
 |	|	|	|	|
 |	|	|	|	|-...\
 |	|	|	|
 |	|	|	|-...\
 |	|	|
 |	|	|
-|	|	|-Entity Framework\
-|	|	|	|
-|	|	|	|-Microsoft\
+|	|	|-Node\
 |	|	|	|
 |	|	|	|-Dapper\
+|	|	|	|	|
+|	|	|	|	|-PostgreSQL\
+|	|	|	|	|	|
+|	|	|	|	|	|-User.Data\
+|	|	|	|	|	|
+|	|	|	|	|	|-Session.Data\
+|	|	|	|	|	|
+|	|	|	|	|	|-...
+|	|	|	|	|
+|	|	|	|	|-MSSql\
+|	|	|	|	|	|
+|	|	|	|	|	|-User.Data\
+|	|	|	|	|	|
+|	|	|	|	|	|-Session.Data\
+|	|	|	|	|	|
+|	|	|	|	|	|-...
+|	|	|	|	|
+|	|	|	|	|-...\
 |	|	|	|
 |	|	|	|-...\
-|	|	|
-|	|	|-Node\
 |	|	|
 |	|	|-...\
 |	|
 |	|-Database\
 |	|	|
 |	|	|-Postgres\
+|	|	|	|
+|	|	|	|-Scripts\
 |	|	|
 |	|	|-MSSqlServer\
 |	|	|
