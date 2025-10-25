@@ -63,6 +63,16 @@ foundation\								(GitHub root)
 |	|	|	|
 |	|	|	|-Dapper\
 |	|	|	|	|
+|	|	|	|	|-Wiring Scrips\
+|	|	|	|	|	|
+|	|	|	|	|	|-User.Contracts\
+|	|	|	|	|	|
+|	|	|	|	|	|-Session.Contracts\
+|	|	|	|	|	|
+|	|	|	|	|	|-My.Session.Contracts\
+|	|	|	|	|	|
+|	|	|	|	|	|-...\
+|	|	|	|	|
 |	|	|	|	|-PostgreSQL\
 |	|	|	|	|	|
 |	|	|	|	|	|-Abstractions\
@@ -94,6 +104,16 @@ foundation\								(GitHub root)
 |	|	|	|	|-...\
 |	|	|	|
 |	|	|	|-Entity Framework (CF)\
+|	|	|	|	|
+|	|	|	|	|-Wiring Scrips\
+|	|	|	|	|	|
+|	|	|	|	|	|-User.Contracts\
+|	|	|	|	|	|
+|	|	|	|	|	|-Session.Contracts\
+|	|	|	|	|	|
+|	|	|	|	|	|-My.Session.Contracts\
+|	|	|	|	|	|
+|	|	|	|	|	|-...\
 |	|	|	|	|
 |	|	|	|	|-MSSql\
 |	|	|	|	|	|-Abstractions\
@@ -271,11 +291,23 @@ foundation\								(GitHub root)
 |	|
 | 	|-.NET 9\
 |	|	|
-|	|	|-Abstraction\
+|	|	|-Wiring Scrips\
 |	|	|	|
 |	|	|	|-User.Contracts\
 |	|	|	|
 |	|	|	|-Session.Contracts\
+|	|	|	|
+|	|	|	|-My.Session.Contracts\
+|	|	|	|
+|	|	|	|-...\
+|	|	|
+|	|	|-Abstractions\
+|	|	|	|
+|	|	|	|-User.Contracts\
+|	|	|	|
+|	|	|	|-Session.Contracts\
+|	|	|	|
+|	|	|	|-My.Session.Contracts\
 |	|	|	|
 |	|	|	|-...\
 |	|	|
@@ -295,9 +327,27 @@ foundation\								(GitHub root)
 |	|
 |	|-Node\
 |	|	|
-|	|	|-User.Contracts\
+|	|	|-Abstractions\
+|	|	|	|
+|	|	|	|-User.Contracts\
+|	|	|	|
+|	|	|	|-Session.Contracts\
+|	|	|	|
+|	|	|	|-My.Session.Contracts\
+|	|	|	|
+|	|	|	|-...\
 |	|	|
-|	|	|-Session.Contracts\
+|	|	|-Base.NodeProject\
+|	|	|	|
+|	|	|	|-Base.Api\
+|	|	|	|
+|	|	|	|-...\
+|	|	|
+|	|	|-Another.NodeProject\
+|	|	|	|
+|	|	|	|-Another.Api\
+|	|	|	|
+|	|	|	|-...\
 |	|	|
 |	|	|-...\
 |	|
