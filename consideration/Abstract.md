@@ -63,9 +63,9 @@ foundation\								(GitHub root)
 |	|	|	|
 |	|	|	|-Dapper\
 |	|	|	|	|
-|	|	|	|	|-PostgresSql\
+|	|	|	|	|-PostgreSQL\
 |	|	|	|	|	|
-|	|	|	|	|	|-Base.Data.PostgresDapper\
+|	|	|	|	|	|-Base.Data\
 |	|	|	|	|	|
 |	|	|	|	|	|-bin\
 |	|	|	|	|	|
@@ -120,9 +120,13 @@ foundation\								(GitHub root)
 |	|
 | 	|-.NET 9\
 |	|	|
-|	|	|-User.Contracts\
-|	|	|
-|	|	|-Session.Contracts\
+|	|	|-Abstraction\
+|	|	|	|
+|	|	|	|-User.Contracts\
+|	|	|	|
+|	|	|	|-Session.Contracts\
+|	|	|	|
+|	|	|	|-...\
 |	|	|
 |	|	|-Base.Solution\
 |	|	|	|
@@ -130,9 +134,15 @@ foundation\								(GitHub root)
 |	|	|	|
 |	|	|	|-...\
 |	|	|
+|	|	|-Another.Solution\
+|	|	|	|
+|	|	|	|-Another.Api\
+|	|	|	|
+|	|	|	|-...\
+|	|	|
 |	|	|-...\
 |	|
-|	|-Maybe.Node.js\
+|	|-Node\
 |	|	|
 |	|	|-User.Contracts\
 |	|	|
