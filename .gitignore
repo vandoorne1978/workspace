@@ -1,0 +1,62 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Local SSL/TLS certificates (keep private)
+ANGULAR/20/Base/.cert/dev-ca.crt
+ANGULAR/20/Base/.cert/dev-ca.key
+ANGULAR/20/Base/.cert/localhost-key.pem
+ANGULAR/20/Base/.cert/localhost.pem
+
+.cert/
+cert/
+certs/
+**/*.pfx
+**/*.pem
+**/*.crt
+**/*.key
+
+# Ignore bin and obj directories .NET
+bin/
+obj/
+.vs/
+
+# Compiled output
+/dist
+/tmp
+/out-tsc
+/bazel-out
+
+# Node
+node_modules/
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# Miscellaneous
+/.angular/cache
+.sass-cache/
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
+/typings
+
+# System files
+.DS_Store
+Thumbs.db
