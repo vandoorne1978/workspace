@@ -212,7 +212,6 @@ foundation\								(GitHub root)
 |	|	|	|
 |	|	|	|-...\
 |	|	|
-|	|	|
 |	|	|-Node\
 |	|	|	|
 |	|	|	|-Dapper\
