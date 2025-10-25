@@ -17,6 +17,10 @@
 ```
 foundation\								(GitHub root)
 |
+|-SCRIPTS\
+|	|
+|	|-...
+|	
 |-SPA\
 |	|
 |	|-...\
@@ -43,6 +47,48 @@ foundation\								(GitHub root)
 ```
 foundation\								(GitHub root)
 |
+|-SCRIPTS\
+|	|
+|	|-Miscellaneous\
+|	|	|
+|	|	|-Trees\
+|	|	|	|
+|	|	|	|-Old\
+|	|	|	|
+|	|	|	|-New\
+|	|	|	|
+|	|	|	|-...\
+|	|	|
+|	|	|-Create\
+|	|	|	|
+|	|	|	|-...\
+|	|	|
+|	|	|-Update\
+|	|	|	|
+|	|	|	|-...\
+|	|
+|	|-Create-Update\
+|	|	|
+|	|	|-Contracts to DBObjects\
+|	|	|	|
+|	|	|	|-.NET 9\
+|	|	|	|
+|	|	|	|-Node\
+|	|	|	|
+|	|	|	|-...\
+|	|	|
+|	|	|-DBObjects to Contract\
+|	|	|	|
+|	|	|	|-.NET 9\
+|	|	|	|
+|	|	|	|-Node\
+|	|	|	|
+|	|	|	|-...\
+|	|	|
+|	|	|-...\
+|	|
+|	|-...\
+|	
 |-SPA\
 |	|
 |	|-ANGULAR\
@@ -144,6 +190,20 @@ foundation\								(GitHub root)
 |	|	|	|	|	|	|
 |	|	|	|	|	|	|-...\
 |	|	|	|	|	|
+|	|	|	|	|	|-MySql\
+|	|	|	|	|	|	|
+|	|	|	|	|	|	|-Abstractions\
+|	|	|	|	|	|	|	|
+|	|	|	|	|	|	|	|-User.Data.Implementation\
+|	|	|	|	|	|	|	|
+|	|	|	|	|	|	|	|-Session.Data.Implementation\
+|	|	|	|	|	|	|	|
+|	|	|	|	|	|	|	|-My.Session.Data.Implementation\
+|	|	|	|	|	|	|	|
+|	|	|	|	|	|	|	|-...\
+|	|	|	|	|	|	|
+|	|	|	|	|	|	|-...\
+|	|	|	|	|	|
 |	|	|	|	|	|-...
 |	|	|	|	|
 |	|	|	|	|-...\
@@ -185,11 +245,23 @@ foundation\								(GitHub root)
 |	|	|	|	|
 |	|	|	|	|-Install\
 |	|	|	|	|
+|	|	|	|	|-Wiring Scrips\
+|	|	|	|	|	|
+|	|	|	|	|	|-User.Contracts\
+|	|	|	|	|	|
+|	|	|	|	|	|-Session.Contracts\
+|	|	|	|	|	|
+|	|	|	|	|	|-My.Session.Contracts\
+|	|	|	|	|	|
+|	|	|	|	|	|-...\
+|	|	|	|	|
 |	|	|	|	|-Abstractions\
 |	|	|	|	|	|
-|	|	|	|	|	|-User.Object
+|	|	|	|	|	|-User.Object\
 |	|	|	|	|	|
-|	|	|	|	|	|-Session.Object
+|	|	|	|	|	|-Session.Object\
+|	|	|	|	|	|
+|	|	|	|	|	|-My.Session.Object\
 |	|	|	|	|	|
 |	|	|	|	|	|-...
 |	|	|	|	|
@@ -231,9 +303,9 @@ foundation\								(GitHub root)
 |	|	|	|	|
 |	|	|	|	|-Abstractions\
 |	|	|	|	|	|
-|	|	|	|	|	|-User.Object
+|	|	|	|	|	|-User.Object\
 |	|	|	|	|	|
-|	|	|	|	|	|-Session.Object
+|	|	|	|	|	|-Session.Object\
 |	|	|	|	|	|
 |	|	|	|	|	|-...
 |	|	|	|	|
@@ -255,9 +327,9 @@ foundation\								(GitHub root)
 |	|	|	|	|
 |	|	|	|	|-Abstractions\
 |	|	|	|	|	|
-|	|	|	|	|	|-User.Object
+|	|	|	|	|	|-User.Object\
 |	|	|	|	|	|
-|	|	|	|	|	|-Session.Object
+|	|	|	|	|	|-Session.Object\
 |	|	|	|	|	|
 |	|	|	|	|	|-...
 |	|	|	|	|
