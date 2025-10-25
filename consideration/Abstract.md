@@ -19,21 +19,21 @@ foundation\								(GitHub root)
 |
 |-SPA\
 |	|
-|	|-...
+|	|-...\
 |
 |-DATA_LAYER\
 |	|
-|	|-...
+|	|-...\
 |		
 |-ORCHESTRATION\
 |	|
-|	|-...
+|	|-...\
 |
 |-REST\
 |	|
-|	|-...
+|	|-...\
 |
-|-...
+|-...\
 
 ```
 
@@ -53,19 +53,48 @@ foundation\								(GitHub root)
 |	|
 |	|-JQueryUI\
 |	|
-|	|-...
+|	|-...\
 |
 |-DATA_LAYER\
 |	|
 |	|-Repositories\	
 |	|	|
 |	|	|-.NET 9\
+|	|	|	|
+|	|	|	|-Dapper\
+|	|	|	|	|
+|	|	|	|	|-PostgresSql\
+|	|	|	|	|	|
+|	|	|	|	|	|-Base.Data.PostgresDapper\
+|	|	|	|	|	|
+|	|	|	|	|	|-bin\
+|	|	|	|	|	|
+|	|	|	|	|	|-...
+|	|	|	|	|
+|	|	|	|	|-...\
+|	|	|	|
+|	|	|	|-Entity Framework\
+|	|	|	|	|
+|	|	|	|	|-Microsoft\
+|	|	|	|	|
+|	|	|	|	|-Dapper\
+|	|	|	|	|
+|	|	|	|	|-...\
+|	|	|	|
+|	|	|	|-...\
+|	|	|
 |	|	|
 |	|	|-Entity Framework\
+|	|	|	|
+|	|	|	|-Microsoft\
+|	|	|	|
+|	|	|	|-Dapper\
+|	|	|	|
+|	|	|	|-...\
 |	|	|
 |	|	|-Node\
 |	|	|
-|	|	|-...
+|	|	|-...\
 |	|
 |	|-Database\
 |	|	|
@@ -75,9 +104,9 @@ foundation\								(GitHub root)
 |	|	|
 |	|	|-MySql\
 |	|	|
-|	|	|-...
+|	|	|-...\
 |	|
-|	|-...
+|	|-...\
 |		
 |-ORCHESTRATION\
 |	|
@@ -85,7 +114,7 @@ foundation\								(GitHub root)
 |	|
 |	|-AWS\
 |	|
-|	|-...
+|	|-...\
 |
 |-REST\
 |	|
@@ -94,17 +123,25 @@ foundation\								(GitHub root)
 |	|	|-User.Contracts\
 |	|	|
 |	|	|-Session.Contracts\
-|	|	|-...
+|	|	|
+|	|	|-Base.Solution\
+|	|	|	|
+|	|	|	|-Base.Api\
+|	|	|	|
+|	|	|	|-...\
+|	|	|
+|	|	|-...\
 |	|
-|	|-Maybe.Node.js\					(a possible Node.js implementation of a REST api)
-|	|	|-Maybe.User.Contracts			(a future user contracts for this implementation)
-|	|	|-Maybe.Session.Contracts		(a future session contracts for this implementation)
-|	|	|-Maybe.Node.Solution			(a future Node.js "solution" like file)
-|	|	|-...
+|	|-Maybe.Node.js\
+|	|	|
+|	|	|-User.Contracts\
+|	|	|
+|	|	|-Session.Contracts\
+|	|	|
+|	|	|-...\
 |	|
-|	|-Maybe.Other.Implementation\
-|	|-...
+|	|-...\
 |
-|-...
+|-...\
 
 ```
