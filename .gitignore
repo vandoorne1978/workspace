@@ -1,11 +1,5 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
-# Local SSL/TLS certificates (keep private)
-ANGULAR/20/Base/.cert/dev-ca.crt
-ANGULAR/20/Base/.cert/dev-ca.key
-ANGULAR/20/Base/.cert/localhost-key.pem
-ANGULAR/20/Base/.cert/localhost.pem
-
 .cert/
 cert/
 certs/
