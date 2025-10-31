@@ -1,9 +1,19 @@
 # 🎯 DARTBOARD.md  
 
-##  Begin:  AI Generated
----
-
 > A place to throw ideas, test angles, and sketch what might stick.
+> 
+## Table of Contents
+- [🧠 Brainstorm Log](#brainstorm-log)
+- [💡 Ideas](#ideas)
+- [🧩 Technical Scratchpad](#technical-scratchpad)
+- [🗺️ Roadmap Fragments](#roadmap-fragments)
+- [🐛 Bugs & Fixes](#bugs--fixes)
+- [🎨 Design Notes](#design-notes)
+- [🔐 Security & Privacy](#security--privacy)
+- [🚀 Performance Notes](#performance-notes)
+- [📦 Releases](#releases)
+- [☕ Reflections](#reflections)
+
 
 ---
 
@@ -41,9 +51,6 @@ interface DailyEntry {
   tags?: string[];
 }
 ```
-
-##  End:  AI Generated
----
 
 ##	Builder
 
