@@ -3,17 +3,15 @@
 > Quick visual icons for section headers, checklists, and docs.
 
 ## Table of Contents
-- [🧠 Brainstorm Log](#brainstorm-log)
-- [💡 Ideas](#ideas)
-- [🧩 Technical Scratchpad](#technical-scratchpad)
-- [🎯 Goals](#goals)
-- [🐛 Bugs & Fixes](#bugs--fixes)
-- [🎨 Design Notes](#design-notes)
-- [🔐 Security & Privacy](#security--privacy)
-- [🚀 Performance Notes](#performance-notes)
-- [📦 Releases](#releases)
-- [☕ Reflections](#reflections)
-
+- [💡 Ideas & Notes](#ideas--notes)
+- [💻 Code & Tech](#code--tech)
+- [🎯 Roadmap & Tasks](#roadmap--tasks)
+- [🐛 Bugs & Quality](#bugs--quality)
+- [🎨 Design & UX](#design--ux)
+- [🗄️ Data, Security & Performance](#data-security--performance)
+- [🧱 DevOps & Releases](#devops--releases)
+- [📣 Community, Docs & Support](#community-docs--support)
+- [⚙️ Tips for Use](#tips-for-use)
 
 ---
 
