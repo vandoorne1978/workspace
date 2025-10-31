@@ -1,7 +1,8 @@
 # 🎯 DARTBOARD.md  
 
 > A place to throw ideas, test angles, and sketch what might stick.
-> WIP
+
+###	WIP
 
 ## Table of Contents
 - [🧠 Brainstorm Log](#brainstorm-log)
