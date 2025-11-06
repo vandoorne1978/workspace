@@ -1,15 +1,3 @@
-E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Feature.Api\bin\Debug\net9.0\Feature.Api.deps.json
-E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Feature.Api\bin\Debug\net9.0\Feature.Api.dll
-E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Feature.Api\bin\Debug\net9.0\Feature.Api.pdb
-E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Feature.Api\obj\Debug\net9.0\Feature.Api.GeneratedMSBuildEditorConfig.editorconfig
-E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Feature.Api\obj\Debug\net9.0\Feature.Api.AssemblyInfoInputs.cache
-E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Feature.Api\obj\Debug\net9.0\Feature.Api.AssemblyInfo.cs
-E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Feature.Api\obj\Debug\net9.0\Feature.Api.csproj.CoreCompileInputs.cache
-E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Feature.Api\obj\Debug\net9.0\Feature.Api.sourcelink.json
-E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Feature.Api\obj\Debug\net9.0\Feature.Api.dll
-E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Feature.Api\obj\Debug\net9.0\refint\Feature.Api.dll
-E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Feature.Api\obj\Debug\net9.0\Feature.Api.pdb
-E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Feature.Api\obj\Debug\net9.0\ref\Feature.Api.dll
 E:\Company Zero\Repo\workspace\src\Feature.Api\bin\Debug\net9.0\Feature.Api.deps.json
 E:\Company Zero\Repo\workspace\src\Feature.Api\bin\Debug\net9.0\Feature.Api.dll
 E:\Company Zero\Repo\workspace\src\Feature.Api\bin\Debug\net9.0\Feature.Api.pdb
