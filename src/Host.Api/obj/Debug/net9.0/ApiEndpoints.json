@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Feature.Api.Controllers.FeatureController",
+    "Method": "Ping",
+    "RelativePath": "Feature/ping",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,76 @@
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\bin\Debug\net9.0\appsettings.Development.json
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\bin\Debug\net9.0\appsettings.json
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\bin\Debug\net9.0\Host.Api.staticwebassets.endpoints.json
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\bin\Debug\net9.0\Host.Api.exe
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\bin\Debug\net9.0\Host.Api.deps.json
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\bin\Debug\net9.0\Host.Api.runtimeconfig.json
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\bin\Debug\net9.0\Host.Api.dll
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\bin\Debug\net9.0\Host.Api.pdb
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\bin\Debug\net9.0\Feature.Api.dll
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\bin\Debug\net9.0\Feature.Api.pdb
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\obj\Debug\net9.0\Host.Api.csproj.AssemblyReference.cache
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\obj\Debug\net9.0\Host.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\obj\Debug\net9.0\Host.Api.AssemblyInfoInputs.cache
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\obj\Debug\net9.0\Host.Api.AssemblyInfo.cs
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\obj\Debug\net9.0\Host.Api.csproj.CoreCompileInputs.cache
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\obj\Debug\net9.0\Host.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\obj\Debug\net9.0\Host.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\obj\Debug\net9.0\Host.Api.sourcelink.json
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\obj\Debug\net9.0\scopedcss\bundle\Host.Api.styles.css
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\obj\Debug\net9.0\staticwebassets.build.json
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\obj\Debug\net9.0\staticwebassets.development.json
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\obj\Debug\net9.0\Host.Api.csproj.Up2Date
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\obj\Debug\net9.0\Host.Api.dll
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\obj\Debug\net9.0\refint\Host.Api.dll
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\obj\Debug\net9.0\Host.Api.pdb
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\obj\Debug\net9.0\Host.Api.genruntimeconfig.cache
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\obj\Debug\net9.0\ref\Host.Api.dll
+E:\Company Zero\Repo\foundation\REST\.Net 9\Wiring Scripts\Template\src\Host.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\Company Zero\Repo\workspace\src\Host.Api\bin\Debug\net9.0\appsettings.Development.json
+E:\Company Zero\Repo\workspace\src\Host.Api\bin\Debug\net9.0\appsettings.json
+E:\Company Zero\Repo\workspace\src\Host.Api\bin\Debug\net9.0\Host.Api.staticwebassets.endpoints.json
+E:\Company Zero\Repo\workspace\src\Host.Api\bin\Debug\net9.0\Host.Api.exe
+E:\Company Zero\Repo\workspace\src\Host.Api\bin\Debug\net9.0\Host.Api.deps.json
+E:\Company Zero\Repo\workspace\src\Host.Api\bin\Debug\net9.0\Host.Api.runtimeconfig.json
+E:\Company Zero\Repo\workspace\src\Host.Api\bin\Debug\net9.0\Host.Api.dll
+E:\Company Zero\Repo\workspace\src\Host.Api\bin\Debug\net9.0\Host.Api.pdb
+E:\Company Zero\Repo\workspace\src\Host.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\Company Zero\Repo\workspace\src\Host.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Company Zero\Repo\workspace\src\Host.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Company Zero\Repo\workspace\src\Host.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Company Zero\Repo\workspace\src\Host.Api\bin\Debug\net9.0\Feature.Api.dll
+E:\Company Zero\Repo\workspace\src\Host.Api\bin\Debug\net9.0\Feature.Api.pdb
+E:\Company Zero\Repo\workspace\src\Host.Api\obj\Debug\net9.0\Host.Api.csproj.AssemblyReference.cache
+E:\Company Zero\Repo\workspace\src\Host.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\Company Zero\Repo\workspace\src\Host.Api\obj\Debug\net9.0\Host.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Company Zero\Repo\workspace\src\Host.Api\obj\Debug\net9.0\Host.Api.AssemblyInfoInputs.cache
+E:\Company Zero\Repo\workspace\src\Host.Api\obj\Debug\net9.0\Host.Api.AssemblyInfo.cs
+E:\Company Zero\Repo\workspace\src\Host.Api\obj\Debug\net9.0\Host.Api.csproj.CoreCompileInputs.cache
+E:\Company Zero\Repo\workspace\src\Host.Api\obj\Debug\net9.0\Host.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Company Zero\Repo\workspace\src\Host.Api\obj\Debug\net9.0\Host.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Company Zero\Repo\workspace\src\Host.Api\obj\Debug\net9.0\Host.Api.sourcelink.json
+E:\Company Zero\Repo\workspace\src\Host.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\Company Zero\Repo\workspace\src\Host.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\Company Zero\Repo\workspace\src\Host.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\Company Zero\Repo\workspace\src\Host.Api\obj\Debug\net9.0\scopedcss\bundle\Host.Api.styles.css
+E:\Company Zero\Repo\workspace\src\Host.Api\obj\Debug\net9.0\staticwebassets.build.json
+E:\Company Zero\Repo\workspace\src\Host.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\Company Zero\Repo\workspace\src\Host.Api\obj\Debug\net9.0\staticwebassets.development.json
+E:\Company Zero\Repo\workspace\src\Host.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\Company Zero\Repo\workspace\src\Host.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\Company Zero\Repo\workspace\src\Host.Api\obj\Debug\net9.0\Host.Api.csproj.Up2Date
+E:\Company Zero\Repo\workspace\src\Host.Api\obj\Debug\net9.0\Host.Api.dll
+E:\Company Zero\Repo\workspace\src\Host.Api\obj\Debug\net9.0\refint\Host.Api.dll
+E:\Company Zero\Repo\workspace\src\Host.Api\obj\Debug\net9.0\Host.Api.pdb
+E:\Company Zero\Repo\workspace\src\Host.Api\obj\Debug\net9.0\Host.Api.genruntimeconfig.cache
+E:\Company Zero\Repo\workspace\src\Host.Api\obj\Debug\net9.0\ref\Host.Api.dll
