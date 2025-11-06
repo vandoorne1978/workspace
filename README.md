@@ -1,4 +1,5 @@
-#  Web Applicaiton Solutions built using scripts and code from my repo foundation (private).  SPA - REST - DB - Orchestration
+##  Sample Solutions 
+-  Built using scripts and code from repo foundation (private).
 
 ##  Purpose
 -  Demo my current professional experience 
